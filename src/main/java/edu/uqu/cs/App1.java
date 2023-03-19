@@ -9,7 +9,7 @@ package edu.uqu.cs;
 */
 
 
-public class App{
+public class App1{
 
 /**  
 * Complete method "twisters" definition below. The method prints all numbers from 1 to 110, 11 numbers per line. 
@@ -54,8 +54,5 @@ public class App{
 
 
     }
-
-public static void twisters() {
-}
 
 }
