@@ -28,7 +28,7 @@ public class App2{
     public static void phoneKeypad(String text) {
 
         // this String var will hold the result
-        // it's String and not int so that when adding numbers 
+        // it'scanner String and not int so that when adding numbers 
         // they are added next to each other and not math addition
         String result = "";
         
@@ -89,8 +89,7 @@ public class App2{
         twisters();
         Scanner s = new Scanner(System.in);
         System.out.print("Enter a string >> ");
-        phoneKeypad(s.nextLine());
+        phoneKeypad(scanner.nextLine());
 
     }
-
 }
