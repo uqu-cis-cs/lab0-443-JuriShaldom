@@ -87,7 +87,7 @@ public class App2{
     public static void main(String [] args) {
 
         twisters();
-        Scanner s = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string >> ");
         phoneKeypad(scanner.nextLine());
 
