@@ -2,7 +2,7 @@ package edu.uqu.cs;
 
 import java.util.Scanner;
 
-public class app{
+public class app.java{
 
     public static void twisters() {
 
